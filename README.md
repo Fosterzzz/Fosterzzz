@@ -1,9 +1,9 @@
-<h1 align="center">Perfil JoaoViana</h1>
-<h3 align="center">Cursando Ciência da Computação, programador django e estudante de segurança da informação</h3>
+<h1 align="center">Perfil JoaoViana💻</h1>
+<h3 align="center">Programador Django e estudante de segurança da informação</h3>
 
 
 <br/>
-- Estou estudando **Django e segurança da informação**
+- Quem eu sou? ** Apenas um programador e entusiasta de cibersegurança, programo em python e tenho conhecimento sobre hacking.**
 
 <h3 align="left">Contas:</h3>
 <p align="left">
