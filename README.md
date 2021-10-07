@@ -15,4 +15,4 @@
 
 <h3 align="left">Status: </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoviana1&show_icons=true&locale=en&layout=compact" alt="joaoviana1" /></p>
-<img align="center src="https://i.ibb.co/QrtqBTV/Fosterzzz.png" alt="Fosterzzz" border="0">
+<img src="https://i.ibb.co/QrtqBTV/Fosterzzz.png" alt="Fosterzzz" border="0">
