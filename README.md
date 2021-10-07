@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<script src="https://tryhackme.com/badge/186221"></script>
+<code><script src="https://tryhackme.com/badge/186221"></script></code>
 
 
