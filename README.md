@@ -3,7 +3,7 @@
 
 
 <br/>
-- Quem eu sou? Sou apenas um programador e entusiasta de cibersegurança, programo em python e tenho conhecimento sobre hacking.
+- Quem eu sou? Sou apenas um programador e entusiasta de cibersegurança, programo em python e tenho conhecimento em hacking.
 
 <h4>Contato</h4>
 - Discord: Foster#0875
