@@ -1,4 +1,3 @@
-<h1 align="center">Perfil Fosterzzz💻</h1>
 <h3 align="center">Programador Django e estudante de segurança da informação</h3>
 
 
@@ -6,7 +5,7 @@
 - Quem eu sou? Sou apenas um programador e entusiasta de cibersegurança, programo em python e tenho conhecimento em hacking.
 
 <h4>Contato</h4>
-- Discord: Foster#0875
+
 
 <h3 align="left">Contas:</h3>
 <p align="left">
